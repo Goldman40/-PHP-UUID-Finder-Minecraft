@@ -1,5 +1,5 @@
 <?php 
- include('getUuid.php');
+ include('functions/getUuid.php');
  
 if ( $_GET['p'] == NULL ) { 
 ?>
