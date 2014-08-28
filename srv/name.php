@@ -12,6 +12,6 @@ if ( $_GET['u'] == NULL ) {
 } else {
  echo '<br><br>Your Minecraft username is : ';
 	getName($_GET['u']);
- echo '<br><br><a href="name.php">Send another name</a>';
+ echo '<br><br><a href="name.php">Send another uuid</a>';
  }
  ?>
