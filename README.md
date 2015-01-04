@@ -10,4 +10,4 @@ Français
 Trouve ton uuid directement depuils l'api mojang sans passer par un site tier. Il suffit d'utiliser les fonctions :
 <code>getName()</code> ou <code>getUuid()</code>. 
 
-You can test online ! Here : http://ci.actrium.fr/php/uuidfinder/
+You can test online ! Here : https://ci.actrium.fr/php/uuidfinder/
