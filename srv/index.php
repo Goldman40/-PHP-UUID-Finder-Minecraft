@@ -8,6 +8,7 @@ if ( $_GET['p'] == NULL ) {
 	<input type="text" name="p"/>
 	<input type="submit" value="Send"/>
 </form>
+</html>
  <?php
 } else {
  echo '<br><br>Your Minecraft uuid is :';
